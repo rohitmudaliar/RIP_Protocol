@@ -2,6 +2,8 @@
  * 
  * filename: Link.java
  * 
+ * author: Rohit Mudaliar(ram4498@rit.edu), Parvathi Nair(pan7447@rit.edu)
+ *
  * version: 1.0 03/24/2017
  *
  * revisions: Initial version
