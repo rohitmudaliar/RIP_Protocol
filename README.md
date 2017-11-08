@@ -1,0 +1,2 @@
+# RIP_Protocol
+Implementation-of-RIP-Protocol This is a distance-vector routing protocol where each node on the network executes RIP to exchange routing information with its neighbors, and based on this information, a node computes the shortest path from itself to all the other nodes and the external internet. In this project, an incessant functioning is ensured in the event of any node’s disappearance and reappearance.
