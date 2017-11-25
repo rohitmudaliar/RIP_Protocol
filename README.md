@@ -4,9 +4,12 @@ How to run:
 javac RIP.java
 java RIP file_path\filename.text
 
-1)According to the sample tests provided for testing, 
+1)According to the sample tests provided for testing
+
 2)open 4 command prompts
+
 3)compile the RIP.java 
+
 4)run the program in each of the command prompt
 
 Routing tables are dsplayed as and when they are updated.
