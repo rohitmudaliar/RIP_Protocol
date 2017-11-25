@@ -1,2 +1,13 @@
-# RIP_Protocol
-Implementation-of-RIP-Protocol This is a distance-vector routing protocol where each node on the network executes RIP to exchange routing information with its neighbors, and based on this information, a node computes the shortest path from itself to all the other nodes and the external internet. In this project, an incessant functioning is ensured in the event of any node’s disappearance and reappearance.
+Name : Parvathi Nair(pan7447@rit.edu), Rohit Mudaliar(ram4498@rit.edu)
+
+How to run:
+javac RIP.java
+java RIP file_path\filename.text
+
+According to the sample tests provided for testing, 
+open 4 command prompts
+compile the RIP.java 
+run the program 
+Routing tables are dsplayed as and when they are updated.
+After all the entries are updated, any node can be failed(any command prompt can be closed) and checked for the updation to infinity(16)
+It can be run again to simulate the reappearance of node and check for the updation of tables
